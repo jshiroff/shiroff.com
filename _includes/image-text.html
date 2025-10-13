@@ -1,0 +1,11 @@
+<div class="image-text-container">
+  <div class="image-container">
+    <img src="{{ include.image | relative_url }}" alt="{{ include.alt | default: 'Image' }}">
+  </div>
+  <div class="text-container">
+    {% if include.title %}
+      <h3>{{ include.title }}</h3>
+    {% endif %}
+    {{ include.content }}
+  </div>
+</div>
