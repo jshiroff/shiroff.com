@@ -8,7 +8,7 @@ permalink: /about/
 >Inclusive learning communities. Engaging instruction. Thriving students and staff.  
 >***Every student. Every classroom. Every day.***
 
-## A Mile High Education Journey
+## A Mile High Educational Journey
 
 I'm a 4th-generation Coloradan and Denver Public Schools graduate. I’m so lucky to have a wonderful spouse and two amazing kids! I also love exercising, listening to music, diving into books, creating art, and soaking up the beauty of nature.
 
