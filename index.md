@@ -10,7 +10,7 @@ layout: home
   
 
 <div>
-  <img src="{{ site.baseurl }}/assets/tidepool.png" alt="Tidepool" width="250" style="float:left; margin: 10px;">
+  <img src="/assets/tidepool.png" alt="Tidepool" width="250" style="float:left; margin: 10px;">
 </div>
 
 I live on la frontera,  
